@@ -6,3 +6,4 @@
 - chore: fix a small wording issue
 - fix: fix a small wording issue
 - chore: link the usage section
+- fix: link the usage section
